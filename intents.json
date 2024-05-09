@@ -1,0 +1,162 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey ",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye"
+      ],
+      "responses": [
+        "See you later, thanks for visiting the page",
+        "Have a nice day"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thanks a lot!"
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure"
+      ]
+    },
+    {
+      "tag": "accommodation dates",
+      "patterns": [
+        "application dates",
+        "When are we supposed to apply for accommodation",
+        "What are the dates for applying accommodation?"
+      ],
+      "responses": [
+        "Students are hereby advised that the emhare On-campus Electronic Accommodation Application Window will open from the 12th of February 2024 to the 15th of February 2024."
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "How do i get in touch with the accommodations office",
+        "what are the numbers for accommodations people",
+        "Which people do i see or go to when i have a query on accommodation",
+        "accommodation contacts"
+      ],
+      "responses": [
+        "Email :   accommodationoffice@admin.uz.ac.zw\nTelephone   :   +263242303211 Ext 21051 Direct Line:   +263242334050."
+      ]
+    },
+    {
+      "tag": "apply",
+      "patterns": [
+        "How do i apply for accommodation",
+        "What steps do i do to apply for accommodation",
+        "applying for accommodation",
+        "How can I apply for accommodation at UZ"
+      ],
+      "responses": [
+        "The Accommodation application window is opened during the registration period for students to apply for accommodation within set time lines.\nRooms in On-campus Accommodation are offered to applicants by a lottery where e-mhare online system will randomly select from the applicants’ list students to be offered accommodation."
+      ]
+    },
+    {
+      "tag": "register",
+      "patterns": [
+        "How do i register my courses",
+        "How to register",
+        "How to register on emhare"
+      ],
+      "responses": [
+        "Access emhare using any one of the following methods:\nGo to the UZ website (www.uz.ac.zw), click on IT services then click “online registration”, OR.\nGo to www.emhare.uz.ac.zw, click on \"Online Registration\", OR.\nGo directly to the address www.dev.emhare.uz.ac.zw /"
+      ]
+    },
+    {
+      "tag": "options",
+      "patterns": [
+        "What are the accommodation options available at UZ?",
+        "How much does accommodation at UZ cost?",
+        "Is accommodation guaranteed for all students?",
+        "What are the amenities provided in UZ accommodation?"
+        ],
+      "responses": [
+        "There are NINE On-campus Student Residences run by Student Residential and Logistical Services, all situated within walking distance of the learning venues. The nine halls bring together undergraduates and graduate students to form vibrant residential communities within the larger context of University of Zimbabwe campus life. We have roughly 6000 residents in total, primarily first years and final year students, though other groups may be accommodated if the space permits.  The architectural styles vary from 3-story modern complexes with over 900 residents to smaller, 2-story halls with plus or minus 200 residents. ",
+        "The University of Zimbabwe (UZ) has increased accommodation fees from ZWD71,000 to US$616 or the equivalent in local currency for the 2022 second semester (August to December). Accommodation fees for the semester that ended on 22 July were equivalent to US$350, reports",
+        "While there is a high demand for places in University student residences, efforts are made to ensure that international students are accommodated on campus. Alternatively, the University provides help, in an advisory role, in securing private accommodation for international students who would have failed to be accommodated in University residences."
+        ]
+    },
+    {
+      "tag": "registration",
+      "patterns": [
+        "how to register"
+        ],
+      "responses": [
+        "Registration is conducted online on www.emhare.uz.ac.zw."
+        ]
+    },
+    {
+      "tag": "registration query",
+      "patterns": [
+        "How do I report maintenance issues or problems in my accommodation",
+        "maintenance",
+        "registration query"
+        ],
+      "responses": [
+        "If you have registration queries, contact your faculty administrator or go and see your faculty administrator they will help you"
+        ]
+    },
+    {
+      "tag": "enrolment query",
+      "patterns": [
+        "How do I report maintenance issues or problems in my enrolment",
+        "enrolment query"
+        ],
+      "responses": [
+        "acadreg@admin.uz.ac.zw; admissions@admin.uz.ac.zw; imbanje@admin.uz.ac.zw"
+        ]
+    },
+    {
+      "tag": "options",
+      "patterns": [
+        "How do I report maintenance issues or problems in my accommodation",
+        "maintenance"
+        ],
+      "responses": [
+        "Telephone   :   +263242303211 Ext 21051 Direct Line:   +263242334050\n\nEmail           :   accommodationoffice@admin.uz.ac.zw\n"
+        ]
+    },
+    {
+      "tag": "enrolment",
+      "patterns": [
+        "How do i enrol at UZ",
+        "How to start with the enrolment office",
+        "Enrolment queries"
+      ],
+      "responses": [
+        "How to Apply Online\\nGo to www.emhare.uz.ac.zw.\\nClick on the Online Application link & fill in the form accordingly & Submit the form.\\nFor instructions on how to fill in the form, click on the How to Apply Online link or go to https://www.emhare.uz.ac.zw/ApplicantsDetails/download."
+      ]
+    }
+  ]
+}
+
+
+
+
